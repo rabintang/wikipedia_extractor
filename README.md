@@ -17,16 +17,16 @@ Each file contains several documents in the format:
     
 	<doc id="" url="" title="">
         ...
-        </doc>
+	</doc>
 
-positional arguments:
-wikidump              XML wiki dump file
-outputdir             output directory
+positional arguments:<br/>
+&emsp;wikidum&emsp;&emsp;XML wiki dump file<br/>
+&emsp;outputdi&emsp;&emsp;output directory
 
-optional arguments:
--h, --help            show this help message and exit
--w, --overwrite       Overwrite existing output dir
--b n[KM], --bytes n[KM]   put specified bytes per output file (default is 25M)
--c, --compress        compress output files using bzip
--l, --links           preserve links
--s, --sections        preserve sections
+optional arguments:<br/>
+&emsp;-h,&emsp;--help&emsp;&emsp;show this help message and exit<br/>
+&emsp;-w,&emsp;--overwrite&emsp;&emsp;Overwrite existing output dir<br/>
+&emsp;-b n[KM],&emsp;--bytes n[KM]&emsp;&emsp;put specified bytes per output file (default is 25M)<br/>
+&emsp;-c,&emsp;--compress&emsp;&emsp;compress output files using bzip<br/>
+&emsp;-l,&emsp;--links&emsp;&emsp;preserve links<br/>
+&emsp;-s,&emsp;--sections&emsp;&emsp;preserve sections
