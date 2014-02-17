@@ -20,8 +20,8 @@ Each file contains several documents in the format:
 	</doc>
 
 positional arguments:<br/>
-&emsp;wikidum&emsp;&emsp;XML wiki dump file<br/>
-&emsp;outputdi&emsp;&emsp;output directory
+&emsp;wikidump&emsp;&emsp;XML wiki dump file<br/>
+&emsp;outputdir&emsp;&emsp;output directory
 
 optional arguments:<br/>
 &emsp;-h,&emsp;--help&emsp;&emsp;show this help message and exit<br/>
