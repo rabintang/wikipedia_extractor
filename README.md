@@ -6,7 +6,7 @@ This is a multithreaded version of the original WikipediaExtractor
 Usage
 ===================
 
-$ ./WikiExtractor.py -h
+$ ./WikiExtractor.py -h<br/>
 usage: WikiExtractor.py [-h] [-w] [-b n[KM]] [-c] [-l] [-s] wikidump outputdir
 
 Multithread Wikipedia Extractor:
